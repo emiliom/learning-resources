@@ -46,7 +46,7 @@ We require all participants to work through the following lessons in advance of 
 
 #### Learning Python Basics
 
-* [Lesson 5]
+* [Lesson 5](numpy.md): introduction to numpy
 
 ### How do I ask questions about the Hackweek?
 If you have technical or general questions about the Hackweek. Please use the General channel on [Slack]({{ hackweek.slack_url }})
