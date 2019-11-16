@@ -1,11 +1,13 @@
-# Numpy
+# Intro to Numpy
 
 This lesson provides an introduction to numpy.
 
-Link to matlab - numpy site?
+* list learning objectives
 
-## Reading Assignment
+## Reading Assignment (optional) (15 minutes)
 
-## Practical Assignment
+If you are a beginner Python programmer making the transition from Matlab, read [this article](https://leportella.com/english/2018/07/22/10-tips-matlab-to-python.html).
 
-Work through this [Introduction to Numpy](notebooks/numpy-intro.ipynb)
+## Practical Assignment (30 minutes)
+
+Work through this [Introduction to Numpy](https://hub-binder.mybinder.ovh/user/uwescience-hack-inary-tutorials-e704wqfz/notebooks/notebooks/numpy-intro.ipynb).

@@ -46,8 +46,22 @@ We require all participants to work through the following lessons in advance of 
 
 #### Learning Python Basics
 
-* [Lesson 5](numpy.md): introduction to numpy
+* [Lesson 5](numpy.md): introduction to Numpy
+* [Lesson 6](pandas.md): introduction to Pandas
 
 ### How do I ask questions about the Hackweek?
-If you have technical or general questions about the Hackweek. Please use the General channel on [Slack]({{ hackweek.slack_url }})
+If you have technical or general questions about the Hackweek, we are here to help. First, you can use the General channel on [Slack]({{ hackweek.slack_url }}). Second, we will offer a schedule of online "office hours" for you to get help as you work through the tutorials above.
+
+#### Online Office Hours Schedule
+
+Here is the [zoom link]() for all of the office hour sessions.
+
+| Date | Time | Lesson Topic | 
+| :--- | :----  | :----: |
+| January x, 2020 | 2:00 PM Pacific Time | Lessons 1 and 2 |
+
+(provide links to code of conduct and norms of behavior as they apply to these calls as well)
+
+
+
 
