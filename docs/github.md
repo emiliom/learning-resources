@@ -26,7 +26,7 @@ Then, click on the big green button and then answer a few required questions. Be
 
 GitHub organizations are a convenient way for teams to get all content relevant to a specific project our workshop into one place. By having everything in one central location you will spend less time searching for hackweek content. GitHub organizations have ``teams'' that offer simple ways to provide respository access to groups of people, rather than individuals.
 
-We have created a GitHub organization called [{{ hackweek.name }}]({{ hackweek.github_org_url}}). For security purposes you can only join the organization by invitation. Here are the steps:
+We have created a GitHub organization called [Waterhackweek](https://github.com/waterhackweek). For security purposes you can only join the organization by invitation. Here are the steps:
 
 1. Once you have a GitHub ID, send it to {{ hackweek.admin_contact }} on our Slack channel
 2. We will then find your ID and send you an invitation which should generate an email notification to the email you provided when you signed up for GitHub
