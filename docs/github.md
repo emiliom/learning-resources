@@ -38,11 +38,9 @@ As you'll learn in the next lesson, we will use the [Waterhackweek](https://gith
 
 First, navigate to the "People" tab on the [Waterhackweek]({https://github.com/waterhackweek) GitHub organization:
 
-![people-tab](img/private-github.png)
+![people-tab](img/whw_private.png)
 
 Now, if you see "Private" to the right of your account, you will need to switch this to "Public":
-
-![private-setting](img/public-github.png)
 
 The steps for doing this are also well documented on [this](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership) GitHub help page. 
 
@@ -50,7 +48,7 @@ The steps for doing this are also well documented on [this](https://help.github.
 
 When you click on the "Repositories" tab in the [Waterhackweek](https://github.com/waterhackweek) GitHub Organization you will see a list of names, each of which links to a separate GitHub repository:
 
-![repos-tab](img/repos.png)
+![repos-tab](img/whw_repos.png)
 
 Each repository is a container for a specific subset of material for this event. For example, we have a separate repository for each tutorial. There is a repository for the public-facing website you used to register for this event, and a repository for the wiki page. We'll also create new repositories for each project when we meet in person.
 
