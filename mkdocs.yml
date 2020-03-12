@@ -4,9 +4,9 @@ nav:
     - Lesson 1: github.md
     - Lesson 2: jupyterhub.md
     - Lesson 3: conda.md
-    - Lesson 4: earthdata.md
-    - Lesson 5: numpy.md
-    - Lesson 6: pandas.md
+    #- Lesson 4: earthdata.md
+    - Lesson 4: numpy.md
+    - Lesson 5: pandas.md
 theme: 
     name: readthedocs
     highlightjs: true
@@ -15,12 +15,12 @@ plugins:
     - markdownextradata
 extra:
   hackweek:
-    name: Cryospheric Sciences with ICESat-2
-    web_url: https://icesat-2hackweek.github.io
-    slack_url: https://icesat2hackweek2020.slack.com/messages/CDQFBU571/
-    github_org_url: https://github.com/icesat-2hackweek
+    name: Waterhackweek
+    web_url: https://waterhackweek.github.io
+    slack_url: https://waterhackweek.slack.com
+    github_org_url: https://github.com/waterhackweek
     pangeo_url: https://aws-uswest2.pangeo.io
     admin_contact: Jane Koh
 markdown_extensions:
   - admonition
-repo_url: https://github.com/uwescience/hackweek-preliminary-tutorials
+repo_url: https://github.com/waterhackweek/learning-resources
