@@ -6,6 +6,7 @@ nav:
     - Introduction to Numpy: numpy.md
     - Introduction to Pandas: pandas.md
     - GEE Access and Javscript Tips: gee_javascript.md
+    - Project Roles and Responsibilities: project.md
 theme: 
     name: readthedocs
     highlightjs: true
