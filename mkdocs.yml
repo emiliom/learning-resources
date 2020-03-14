@@ -1,12 +1,10 @@
 site_name: hackweek preliminary tutorials
 nav:
     - Home: index.md
-    - Lesson 1: github.md
-    - Lesson 2: jupyterhub.md
-    - Lesson 3: conda.md
-    #- Lesson 4: earthdata.md
-    - Lesson 4: numpy.md
-    - Lesson 5: pandas.md
+    - Introduction to Github: github.md
+    - Introduction to Conda: conda.md
+    - Introduction to Numpy: numpy.md
+    - Introduction to Pandas: pandas.md
 theme: 
     name: readthedocs
     highlightjs: true
@@ -20,6 +18,7 @@ extra:
     slack_url: https://waterhackweek.slack.com
     github_org_url: https://github.com/waterhackweek
     pangeo_url: https://aws-uswest2.pangeo.io
+    cyberseminar_url: https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series
     admin_contact: Jane Koh
 markdown_extensions:
   - admonition

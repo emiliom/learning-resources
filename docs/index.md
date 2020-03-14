@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to the [{{ hackweek.name }}]({{ hackweek.web_url }}) hackweek! Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://www.pnas.org/content/115/36/8872) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
+Welcome to the [{{ hackweek.name }}]({{ hackweek.web_url }}) hackweek! Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://arxiv.org/abs/1711.00028) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
 
 ![hackweek-mission](img/hackweek-mission.png)
 
@@ -39,29 +39,17 @@ We require all participants to work through the following lessons in advance of 
 
 #### Setting up your laptop and getting access to computing resources
 
-* [Lesson 1](github.md): setting up a GitHub account
-* [Lesson 2](jupyterhub.md): connecting to our shared cloud computing environment
-* [Lesson 3](conda.md): installing Python on your laptop
-* [Lesson 4](earthdata.md): getting a NASA Earthdata login
+* [Introduction to Github](github.md): setting up a GitHub account
+<!--* [Lesson 2](jupyterhub.md): connecting to our shared cloud computing environment-->
+* [Introduction to Conda](conda.md): installing Python on your laptop
+<!--* [Lesson 4](earthdata.md): getting a NASA Earthdata login-->
 
 #### Learning Python Basics
 
-* [Lesson 5](numpy.md): introduction to Numpy
-* [Lesson 6](pandas.md): introduction to Pandas
+Self-working notebooks to understand practical aspects of Numpy and Pandas
+
+* [Introduction to Numpy](numpy.md)
+* [Introduction to Pandas](pandas.md)
 
 ### How do I ask questions about the Hackweek?
-If you have technical or general questions about the Hackweek, we are here to help. First, you can use the General channel on [Slack]({{ hackweek.slack_url }}). Second, we will offer a schedule of online "office hours" for you to get help as you work through the tutorials above.
-
-#### Online Office Hours Schedule
-
-Here is the [zoom link]() for all of the office hour sessions.
-
-| Date | Time | Lesson Topic | 
-| :--- | :----  | :----: |
-| January x, 2020 | 2:00 PM Pacific Time | Lessons 1 and 2 |
-
-(provide links to code of conduct and norms of behavior as they apply to these calls as well)
-
-
-
-
+If you have technical or general questions about the Hackweek, we are here to help. First, you can use the General channel on [Slack]({{ hackweek.slack_url }}). Second, we have Cyberseminars scheduled on specific days, for which you can find the schedule [here]({{ hackweek.cyberseminar_url }}).
