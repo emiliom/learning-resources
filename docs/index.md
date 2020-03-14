@@ -43,6 +43,7 @@ We require all participants to work through the following lessons in advance of 
 <!--* [Lesson 2](jupyterhub.md): connecting to our shared cloud computing environment-->
 * [Introduction to Conda](conda.md): installing Python on your laptop
 <!--* [Lesson 4](earthdata.md): getting a NASA Earthdata login-->
+* [GEE Access and Javascript Tips](gee_javascript.md): setting up Google Earth Engine account
 
 #### Learning Python Basics
 

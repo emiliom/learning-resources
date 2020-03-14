@@ -1,10 +1,11 @@
-site_name: hackweek preliminary tutorials
+site_name: learning-resources
 nav:
     - Home: index.md
     - Introduction to Github: github.md
     - Introduction to Conda: conda.md
     - Introduction to Numpy: numpy.md
     - Introduction to Pandas: pandas.md
+    - GEE Access and Javscript Tips: gee_javascript.md
 theme: 
     name: readthedocs
     highlightjs: true

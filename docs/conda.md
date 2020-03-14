@@ -2,7 +2,7 @@
 
 ### Overview 
 
-In the previous lesson we showed you a cloud-based environment for our work during the hackweek. What happens after the event when you want to go home and work with all the libraries we showed you? You will likely also want to have a functioning version of Python on your local laptop if that is not already in place. So this lesson takes you through our recommended procedure for doing that. We suggest you get this set up in advance so that we can help you troubleshoot when you arrive.
+What happens after the event when you want to go home and work with all the libraries ? You will likely also want to have a functioning version of Python on your local laptop if that is not already in place. So this lesson takes you through our recommended procedure for doing that. We suggest you get this set up in advance so that we can help you troubleshoot when you arrive.
 
 ### Python Software
 
