@@ -2,6 +2,8 @@
 
 This lesson provides an introduction to pandas.
 
+## Learning Objectives
+
 * Understand concepts
 * Understand data access strategies, data types, Python ecosystem
 

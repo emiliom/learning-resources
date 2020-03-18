@@ -1,8 +1,11 @@
 # Intro to Numpy
 
-This lesson provides an introduction to numpy.
+This lesson provides an introduction to numpy and matplotlib.
 
-* list learning objectives
+## Learning Objectives
+
+* Understand Numpy for scientific computing
+* Understand how to create high-quality visualizations using Matplotlib
 
 ## Reading Assignment (optional) (15 minutes)
 
