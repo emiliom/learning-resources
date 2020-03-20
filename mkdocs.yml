@@ -7,6 +7,8 @@ nav:
     - Introduction to Pandas: pandas.md
     - GEE Access and Javscript Tips: gee_javascript.md
     - Project Roles and Responsibilities: project.md
+    - Vocabulary and Acronyms: VocabAcronyms2020.md
+    - How to Contribute: howtocontribute.md
 theme: 
     name: readthedocs
     highlightjs: true
