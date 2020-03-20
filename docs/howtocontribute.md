@@ -4,10 +4,7 @@
 ## How to Contribute
 
 
-1) Link to the How to Collaborate page - ongoing 
-
-
-2) Contribute lessons or content
+### Contribute lessons or content
 
 Refer the [Vocabulary and Acronyms](https://waterhackweek.github.io/learning-resources/VocabAcronyms2020) lesson on the sidebar. This document lists some of the terms encountered during the Cyberseminar series. Enrich this vocabulary by contributing to it so that it is up to date and useful for you!!! Add more terms to this document by raising a pull request for the corresponding github project.
 
@@ -27,4 +24,4 @@ Steps:
 8. Post this, you just have to wait and watch! If your pull request gets approved, then Congratulations! you made a contribution to open source :D
   
 
-3) We are extending an open invitation to anyone to join the COVID-19 Community Project experimenting with GeoHealth project integration to contribute and visualize data to Flatten the Curve March 23 - April 16
+We are extending an open invitation to anyone to join the COVID-19 Community Project experimenting with GeoHealth project integration to contribute and visualize data to Flatten the Curve March 23 - April 16. More information on this will be available soon.
