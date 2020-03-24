@@ -52,5 +52,15 @@ Self-working notebooks to understand practical aspects of Numpy and Pandas
 * [Introduction to Numpy](numpy.md)
 * [Introduction to Pandas](pandas.md)
 
+#### Hackweek Alumni Papers
+
+Here are some papers for reference, written by Waterhackweek Alumni:
+
+[Mapping three decades of annual irrigation across the US High Plains Aquifer using Landsat and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S0034425719304195)
+
+[High-resolution mapping of global surface water and its long-term changes](https://www.nature.com/articles/nature20584?cacheBust=1509887195761,%20https://www.nature.com/articles/s41586-019-1848-1)
+
+[Performance of Landsat-8 and Sentinel-2 surface reflectance products for river remote sensing retrievals of chlorophyll-a and turbidity](https://www.sciencedirect.com/science/article/abs/pii/S0034425719300288)
+
 ### How do I ask questions about the Hackweek?
 If you have technical or general questions about the Hackweek, we are here to help. First, you can use the General channel on [Slack]({{ hackweek.slack_url }}). Second, we have Cyberseminars scheduled on specific days, for which you can find the schedule [here]({{ hackweek.cyberseminar_url }}).
