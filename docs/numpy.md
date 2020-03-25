@@ -13,4 +13,4 @@ If you are a beginner Python programmer making the transition from Matlab, read 
 
 ## Practical Assignment (30 minutes)
 
-Work through this [Introduction to Numpy](https://hub-binder.mybinder.ovh/user/uwescience-hack-inary-tutorials-e704wqfz/notebooks/notebooks/numpy-intro.ipynb).
+Work through this notebook: [Introduction to Numpy](https://colab.research.google.com/github/waterhackweek/learning-resources/blob/master/notebooks/numpy-intro.ipynb). The notebook will open in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) in Playground mode (this mode opens a copy of the read-only notebook in a temporary session, that doesn't save the notebook). Make sure you create a copy of the notebook by clicking on "Copy to Drive", and then start working with the notebook.
