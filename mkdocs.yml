@@ -1,10 +1,12 @@
 site_name: learning-resources
 nav:
     - Home: index.md
-    - Introduction to Github: github.md
-    - Introduction to Conda: conda.md
-    - Introduction to Numpy: numpy.md
-    - Introduction to Pandas: pandas.md
+    - HydroShare: hydroshare.md
+    - Binder: binder.md
+    - Github: github.md
+    - Conda: conda.md
+    - Numpy: numpy.md
+    - Pandas: pandas.md
     - GEE Access and Javscript Tips: gee_javascript.md
     - Project Roles and Responsibilities: project.md
     - Diversity Statement: diversityMethods.md
