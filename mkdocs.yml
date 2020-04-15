@@ -1,6 +1,7 @@
 site_name: learning-resources
 nav:
     - Home: index.md
+    - Scientific Methods: reproducibility101.md
     - HydroShare: hydroshare.md
     - Binder: binder.md
     - Github: github.md
