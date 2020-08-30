@@ -11,8 +11,8 @@ nav:
   #   - Getting Help: logistics/getting_help.md
   - Pre-event Preparation:
     - Git: prep/git.md
-    # - GitHub: prep/github.md
-  #   - Jupyter and the Hub: prep/jupyterhub.md
+    - GitHub: prep/github.md
+    # - Jupyter and the Hub: prep/jupyterhub.md
     # - HydroShare: hydroshare.md
     # - Binder: binder.md
     # - Github: github.md
@@ -49,6 +49,7 @@ extra_css:
 extra:
   hackweek:
     name: Waterhackweek
+    prefix: whw
     currentprefix: whw20
     web_url: https://waterhackweek.github.io
     slack_url: https://waterhackweek.slack.com
