@@ -6,12 +6,12 @@ nav:
     - Introduction: index.md
     - Code of Conduct: conduct.md
     - Diversity Statement: diversityMethods.md
-  - Logistics: 
-    - Overview and Schedule: logistics/overview.md
-    - Getting Help: logistics/getting_help.md
-  # - Pre-event Preparation:
-  #   - Git: prep/git.md
-  #   - GitHub: prep/github.md
+  # - Logistics: 
+  #   - Overview and Schedule: logistics/overview.md
+  #   - Getting Help: logistics/getting_help.md
+  - Pre-event Preparation:
+    - Git: prep/git.md
+    # - GitHub: prep/github.md
   #   - Jupyter and the Hub: prep/jupyterhub.md
     # - HydroShare: hydroshare.md
     # - Binder: binder.md
@@ -49,6 +49,7 @@ extra_css:
 extra:
   hackweek:
     name: Waterhackweek
+    currentprefix: whw20
     web_url: https://waterhackweek.github.io
     slack_url: https://waterhackweek.slack.com
     github_org_url: https://github.com/waterhackweek
