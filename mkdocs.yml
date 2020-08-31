@@ -8,12 +8,12 @@ nav:
     - Diversity Statement: diversityMethods.md
   - Logistics: 
     - Overview and Schedule: logistics/overview.md
-    - Getting Help: logistics/getting_help.md
+    # - Getting Help: logistics/getting_help.md
   - Pre-event Preparation:
     - Git: prep/git.md
     - GitHub: prep/github.md
     - Jupyter and JupyterHub: prep/jupyterhub.md
-    - Python Ecosystem: prep/pythonecosystem.md
+    # - Scientific Python Ecosystem: prep/pythonecosystem.md
     # - Python and conda
     # - HydroShare: hydroshare.md
     # - Binder: binder.md
@@ -21,7 +21,7 @@ nav:
     # - Conda, Python, R: prep/conda.md
     # - Python Requirements: preweek/python.md
   - Tutorials:
-    - Getting Started: tutorials/getting_started.md
+    # - Getting Started: tutorials/getting_started.md
     - Numpy: numpy.md
     - Pandas: pandas.md
     # - GEE Access and Javascript Tips: gee_javascript.md
