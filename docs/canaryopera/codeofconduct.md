@@ -3,7 +3,7 @@
 ## Waterhackweek organizers are dedicated to facilitating a learning community with ways to interact that provide a learning experience for everyone that is free from disruption, bias or harassment.
 
 ## What is a learning community?
-According to a learning community leader [1], “A ‘community’ is a group of individuals who freely choose to be and do something
+According to a learning community leader [1], “A community is a group of individuals who freely choose to be and do something
 together in an ongoing way.” A member of a learning community typically joins out of their curiosity and commitment to create
 something that they care about. Learning community members are connected by matters of the heart as well as the mind. Learning
 communities are brave spaces for truth-seeking and speaking.They are places where curiosity reigns over knowing and where
