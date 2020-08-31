@@ -104,3 +104,10 @@ Article number: 5163. Retrieved from https://www.nature.com/articles/s41467-018-
 
 4 Guidelines adapted from Singleton, G.E., Linton, C. (2006) Conversations about Race: A Field Guide for Achieving Equity in Schools. Thousand Oaks:
 Corwin Press
+
+## Group discussion August 31, 2020
+Q: What can each of us do to make Waterhackweek an optimal learning environment that is inclusive and welcoming for everyone?
+
+- Be respectful to others’ views; whether it’s technical question or scientific hypothesis
+
+...
