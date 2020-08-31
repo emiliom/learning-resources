@@ -1,4 +1,4 @@
-# JupyterHub
+# Jupyter and JupyterHub
 
 ## Jupyter notebooks and the Jupyter ecosystem
 
