@@ -3,6 +3,7 @@
 conda, installation:
 - https://carpentrieslab.github.io/python-aos-lesson/01-conda/index.html
 - http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2019a/content/lessons/lesson_00/l00a_python_for_scientific_computing.html
+- https://github.com/csdms/espin/blob/main/lessons/conda/index.md
 
 ## From Jupyter Book
 
@@ -27,6 +28,8 @@ Among the vast number of packages in the Python ecosystem, NumPy, Scipy, Matplot
 - Pandas: https://scipy-lectures.org/packages/statistics/index.html#data-representation-and-interaction
 
 - https://unidata.github.io/python-training/workshop/workshop-intro/
+
+- [UW Geospatial Data Analysis with Python class](https://github.com/UW-GDA/gda_course_2020). From David Shean. Based on Jupyter notebooks. Has great additional resources.
 
 ## Beyond numpy, matplotlib, pandas
 
