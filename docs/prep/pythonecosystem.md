@@ -1,8 +1,8 @@
-# Python Ecosystem
+# Scientific Python Ecosystem
 
 conda, installation:
 - https://carpentrieslab.github.io/python-aos-lesson/01-conda/index.html
-
+- http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2019a/content/lessons/lesson_00/l00a_python_for_scientific_computing.html
 
 ## From Jupyter Book
 
@@ -18,6 +18,8 @@ Among the vast number of packages in the Python ecosystem, NumPy, Scipy, Matplot
 ## Other
 
 - Yifan's and Steven's tutorials will cover some of the basics of numpy, matplotlib and pandas
+  - Numpy: https://github.com/waterhackweek/waterdata/blob/master/gridded_data_tutorial_0.ipynb
+  - xarray: https://github.com/waterhackweek/waterdata/blob/master/gridded_data_tutorial_1.ipynb
 
 - From OHW20: Jupyter and Scientific Python basics: numpy, pandas, matplotlib. [Jupyter notebooks](https://github.com/oceanhackweek/ohw-preweek/tree/master/data-analysis-modules) — [video](https://youtu.be/CTUAgpvfze0)
 
