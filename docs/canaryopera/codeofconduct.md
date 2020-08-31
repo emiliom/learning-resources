@@ -52,7 +52,7 @@ place of genuine curiosity.
 
 # Waterhackweek 2020 code of conduct 
 
-## Help us identify and dismantle unethical and unprofessional structures, attitudes and behaviors that impede creativity and respect in our learning community. Waterhackweek organizers are dedicated to providing a learning experience for everyone that is free from disruption from bias or harassment.
+## Help us identify and dismantle unethical and unprofessional structures, attitudes and behaviors that impede creativity and respect in our learning community. Waterhackweek organizers are dedicated to providing a learning experience for everyone that is free from disruption, bias or harassment.
 
 Regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age or religion, all participants are expected to respect each other as SCIENCE-MOTIVATED HUMANS first. Waterhackweek volunteers and organizers will step up to address harassment of participants and/or presenters in any form ifwe are direct witnesses. Sexual language and imagery is not appropriate for any conference venue, including talks. We expect participants to act in ways that support a learning community at all Waterhackweek event venues and event-related social activities. And we expect you to support collaboration and learning while visiting University of Washington’s many communities of practice. Participants asked to stop any harassing behavior are expected to comply immediately. Waterhackweek organizers will contact hackweek participants violating the stated code of conduct, including being expelled from the conference without refund at the discretion of the organizers.
 
