@@ -4,7 +4,7 @@ repo_url: https://github.com/waterhackweek/learning-resources
 nav:
   - Overview:
     - Introduction: index.md
-    - Code of Conduct: conduct.md
+    - Code of Conduct: canaryopera/codeofconduct.md
     - Diversity Statement: diversityMethods.md
   - Logistics: 
     - Overview and Schedule: logistics/overview.md

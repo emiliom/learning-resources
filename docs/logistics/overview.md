@@ -24,8 +24,9 @@ The **detailed schedule** can be found [here](https://waterhack.sched.com); this
 
 We will use the [{{hackweek.name}} Slack workspace]({{hackweek.slack_url}}) as the main channel of chat communication during the hackweek, in addition to communication via QiqoChat. You should have received an invitation to join this workspace. If you haven't seen it in your inbox, check your spam folder, or email us at *{{hackweek.email}}*.
 
-## JupyterHub and GitHub
+## HydroShare, JupyterHub and GitHub
 
+- HydroShare: [https://hydroshare.org](https://hydroshare.org)
 - {{hackweek.name}} JupyterHub: [{{hackweek.jupyterhub_url}}]({{hackweek.jupyterhub_url}})
 - {{hackweek.name}} GitHub organization: [{{hackweek.github_org_url}}]({{hackweek.github_org_url}})
 
@@ -35,7 +36,7 @@ See the [Projects page](../project.md) for more information about projects.
 
 ## Presentation Recordings
 
-To access recordings from Waterhackweek presentations, go to the [Waterhackweek 2020 Learning Resources HydroShare resource](https://www.hydroshare.org/resource/c59689b403b3484182b016fbcd0267ac/).
+To access recordings from Waterhackweek presentations, go to the [Waterhackweek 2020 Learning Resources HydroShare resource](https://www.hydroshare.org/resource/c59689b403b3484182b016fbcd0267ac/). Recordings from the Waterhackweek 2020 Cyberseminars from early 2020 are found on the ["2020 Cyberseminar Series: Waterhackweek" CUAHSI YouTube playlist](https://www.youtube.com/playlist?list=PLPG5Ed5L1SY4WilQpJF072zd4jGfCmnDv).
 
 
 <!-- ## Getting Help
