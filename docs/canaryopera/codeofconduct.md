@@ -10,7 +10,8 @@ communities are brave spaces for truth-seeking and speaking.They are places wher
 experimentation is welcome. Developing the capacity to live with ‘not knowing’ when it naturally arises, to learn to be in relationship
 with oneself and to be reflective rather than defensive in nature is essential for learning in community. We provide the following guidelines for interacting with each other over the coming week. Not only do we know that interacting with people in these ways will help us be more culturally responsive [2], but it will also help our water data
 science community thrive and have greater scientific impact [3]. We hope that within this learning community each of you will be able to achieve your individual learning goals this week!
-How do we create one? [4]
+
+## How do we create one? [4]
 
 ### Take risks
 - To grow and understand in a relationship, take the risk of saying the wrong thing. Don’t be so afraid that you opt out.
@@ -49,15 +50,14 @@ rationalize them away. Before you attempt to fix something, pause and reflect on
 - Resist the urge to change the subject or make a distracting joke when you are uncomfortable. Instead, ask questions from a
 place of genuine curiosity.
 
+# Waterhackweek 2020 code of conduct 
 
-# Waterhackweek 2020 code of conduct: Help us identify and dismantle unethical and unprofessional structures, attitudes and behaviors that impede creativity and respect in our learning community.
-
-## Waterhackweek organizers are dedicated to providing a learning experience for everyone that is free from disruption from bias or harassment.
+## Help us identify and dismantle unethical and unprofessional structures, attitudes and behaviors that impede creativity and respect in our learning community. Waterhackweek organizers are dedicated to providing a learning experience for everyone that is free from disruption from bias or harassment.
 
 Regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, age or religion, all participants are expected to respect each other as SCIENCE-MOTIVATED HUMANS first. Waterhackweek volunteers and organizers will step up to address harassment of participants and/or presenters in any form ifwe are direct witnesses. Sexual language and imagery is not appropriate for any conference venue, including talks. We expect participants to act in ways that support a learning community at all Waterhackweek event venues and event-related social activities. And we expect you to support collaboration and learning while visiting University of Washington’s many communities of practice. Participants asked to stop any harassing behavior are expected to comply immediately. Waterhackweek organizers will contact hackweek participants violating the stated code of conduct, including being expelled from the conference without refund at the discretion of the organizers.
 
 ## HARASSMENT INCLUDES, BUT IS NOT LIMITED TO:
-Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
+- Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion.
 - Sexual images in public spaces
 - Deliberate intimidation, stalking, or following
 - Harassing photography or recording
@@ -76,11 +76,14 @@ The Canary Opera pilot is a data collection process that provides group generate
 
 ### PRIVATE FEEDBACK
 
-1. Connect with Dr. Christina Bandaragoda in person or private message on Slack
+1. Connect with Dr. Christina Bandaragoda private message on waterhackweek.slack.com 
 
-2. Write de-identified feedback on the Canary Opera feedback loop flip chart in the break area for other participants to see
+2. Connect with Mary Dumas at dumas.assoc@gmail.com or by private message on waterhackweek.slack.com. For confidential or anonymous feedback, email mary@dumas-assoc.com for more details to connect by video or audio private conversation.
 
-3. Deliver anonymous feedback in the private message box under the breakroom flipchart. Organizers will review all information to identify those structures, attitudes and behaviors that uphold creativity and science collaboration.
+Organizers will review all information to identify those structures, attitudes and behaviors that uphold creativity and science collaboration.
+
+# REPORTING A VIOLATION
+Harassment and other code of conduct violations reduce the value of OceanHackWeek for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to one of the instructors. You can make a report either personally or anonymously. [Anonymous reports can be made here](https://www.surveymonkey.com/r/VX8ZC38).
 
 For an informal, neutral, and confidential resource that can help the University community address complaints and/or challenging situations, contact the Office of the Ombud, 206-543-6028. ombuds@uw.edu, www.uw.edu/ombud. For individuals who are uncertain about whether they want to pursue a formal complaint, but would like someone to speak to, the Ombud office would be a good place to start and they can assist with navigating the different resources on campus.
 
