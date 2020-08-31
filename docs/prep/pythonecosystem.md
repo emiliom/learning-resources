@@ -2,7 +2,7 @@
 
 conda, installation:
 - https://carpentrieslab.github.io/python-aos-lesson/01-conda/index.html
-
+- http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2019a/content/lessons/lesson_00/l00a_python_for_scientific_computing.html
 
 ## From Jupyter Book
 
