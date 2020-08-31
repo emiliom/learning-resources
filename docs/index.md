@@ -41,17 +41,10 @@ We require all participants to work through the following lessons in advance of 
 
 ### Setting up your laptop and getting access to computing resources
 
-* [Introduction to Github](github.md): setting up a GitHub account
+<!-- * [Introduction to Github](github.md): setting up a GitHub account -->
 <!--* [Lesson 2](jupyterhub.md): connecting to our shared cloud computing environment-->
 * [Introduction to Conda](conda.md): installing Python on your laptop
 * [GEE Access and Javascript Tips](gee_javascript.md): setting up Google Earth Engine account
-
-### Learning Python Basics
-
-Self-working notebooks to understand practical aspects of Numpy and Pandas
-
-* [Introduction to Numpy](numpy.md)
-* [Introduction to Pandas](pandas.md)
 
 
 ## How do I ask questions about the Hackweek?

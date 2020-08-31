@@ -33,6 +33,10 @@ We will use the [{{hackweek.name}} Slack workspace]({{hackweek.slack_url}}) as t
 
 See the [Projects page](../project.md) for more information about projects.
 
+## Presentation Recordings
+
+To access recordings from Waterhackweek presentations, go to the [Waterhackweek 2020 Learning Resources HydroShare resource](https://www.hydroshare.org/resource/c59689b403b3484182b016fbcd0267ac/).
+
 
 <!-- ## Getting Help
 
