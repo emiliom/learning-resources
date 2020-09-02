@@ -36,8 +36,9 @@ See the [Projects page](../project.md) for more information about projects.
 
 ## Presentation Recordings
 
-To access recordings from Waterhackweek presentations, go to the [Waterhackweek 2020 Learning Resources HydroShare resource](https://www.hydroshare.org/resource/c59689b403b3484182b016fbcd0267ac/). Recordings from the Waterhackweek 2020 Cyberseminars from early 2020 are found on the ["2020 Cyberseminar Series: Waterhackweek" CUAHSI YouTube playlist](https://www.youtube.com/playlist?list=PLPG5Ed5L1SY4WilQpJF072zd4jGfCmnDv).
+Waterhackweek 2020 presentation cecordings will be posted to the [Waterhackweek 2020 Learning Resources HydroShare resource](https://www.hydroshare.org/resource/c59689b403b3484182b016fbcd0267ac/) within a couple of hours. They will in turn be posted to the [Waterhackweek YouTube playlist](https://www.youtube.com/playlist?list=PLA6PlfxWZPLT2T23wUNK9W3tbfSLu2EM_) later, typically not the same day.
 
+Recordings from the Waterhackweek 2020 Cyberseminars from early 2020 are found on the ["2020 Cyberseminar Series: Waterhackweek" CUAHSI YouTube playlist](https://www.youtube.com/playlist?list=PLPG5Ed5L1SY4WilQpJF072zd4jGfCmnDv).
 
 <!-- ## Getting Help
 
