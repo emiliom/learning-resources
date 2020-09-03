@@ -24,7 +24,7 @@ nav:
     # - Getting Started: tutorials/getting_started.md
     - Numpy: numpy.md
     - Pandas: pandas.md
-    # - GEE Access and Javascript Tips: gee_javascript.md
+    - GEE Access and Javascript Tips: gee_javascript.md
   - Projects:
     - Roles and Responsibilities: project.md
   - Reference:
