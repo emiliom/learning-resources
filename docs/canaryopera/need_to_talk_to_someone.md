@@ -1,9 +1,34 @@
 # Emergency.  Are worried you might hurt yourself or someone else ? 
-Please get IMMEDIATE HELP if this applies to you. CALL 911 or your local emergency response service or get to the nearest emergency hospital NOW.
+Please get IMMEDIATE HELP if this applies to you. CALL 911 or your [local emergency response service](https://travel.state.gov/content/dam/students-abroad/pdfs/911_ABROAD.pdf) or get to the nearest emergency hospital NOW.
 If you decide to call 911 or Emergency Medical Services, tell them exactly where you are calling from so they can come and talk to you.
 
 # Avoid an Emergency
+It is okay to not be okay. You can be a successful person with a loving family and supportive friends, but still be impacted by events and conditions that lead to a mental health condition requiring help. [Breaking the Stigma Around Suicide](https://kvoa.com/news/local-news/2020/09/15/breaking-the-stigma-around-suicide-tucson-woman-shares-her-touching-story/)
+
+## Suicide is a big issue. More people lose their lives to suicide than to road accidents, industrial accidents, and homicides combined. 
+
 If someone you know is struggling emotionally or having a hard time, you can be the difference in getting them the help they need. It’s important to take care of yourself when you are supporting someone through a difficult time, as this may stir up difficult emotions. If it does, please reach out for support yourself.  The cumulative impacts in our daily efforts to reduce stigma, challenge stereotypes, and spread awareness of suicide and its devastating impact can make a difference in people's lives. [Talk to Someone Now](https://suicidepreventionlifeline.org/talk-to-someone-now/).
+
+## Protect yourself from myths
+As well as being incorrect, common myths can stop us recognising when someone is at risk and in need of support. So here are five common misconceptions and the facts you can use to bust these myths (credit to [Sane Australia](https://www.sane.org/information-stories/the-sane-blog/suicide-prevention/busting-the-myths-about-suicide)).
+
+Myth # 1: Talking about suicide might put the idea in their head
+_Fact:_ There’s no harm in asking. If anything, for someone who is thinking about suicide, **talking about it can come as a great a relief, and help them feel less afraid and more in control. Avoiding or tiptoeing around the issue can be isolating and leave people feeling unheard.** The best policy is to try and help someone talk openly about how they are feeling and encourage them to seek help.
+
+Myth #2: People who attempt or end their life by suicide want to die
+_Fact:_ People who attempt suicide are often quite ambivalent about it. They may not really want to die – they may even be afraid of death – but see suicide as the only way to bring an end to their pain. **Providing emotional support, helping them consider positive coping methods, can be helpful to someone who is feeling unsafe.**
+
+Myth #3: Suicidal behaviour is manipulative or ‘attention-seeking’
+Sometimes people may threaten or attempt suicide as a desperate plea to let others know they are not coping and need help.
+_Fact:_ **They may not know how to tell others how they are feeling, they may think that no one cares, or that nobody can help them.** However these actions may come across, they should never be treated as trivial or manipulative. All suicidal talk and behaviour is serious and requires a compassionate and immediate response.
+
+Myth #4: Most suicides happen unexpectedly
+_Fact:_ **There are often warning signs prior to suicide.** Some may be obvious, talking about suicide or death. Others less so, such as withdrawing from friends or family, or misusing alcohol and drugs. People who are thinking about dying usually try to seek help. In fact, many people who attempt suicide visit a doctor in the months and weeks prior.
+
+Myth #5: Suicide is a selfish act
+_Fact:_ Many people who attempt suicide feel they are a burden to others, and that their friends and family would be better off without them. While some people recognise that their death will cause their loved one’s pain, **they may also believe they are causing more pain by being alive** and rationalise suicide as a way to protect those they care about. 
+
+If you are thinking about suicide, please reach out to one of the crisis services listed below. If you are worried about someone you can help by learning what signs to look out for, how to have a conversation about suicide and how to help them stay safe if they are feeling suicidal.
 
 ## International Frontline services
 Anyone can hit crisis point. [CALM](https://www.thecalmzone.net/about-calm/what-is-calm/) runs a [free and confidential helpline and webchat](https://www.thecalmzone.net/help/get-help/) – 7 hours a day, 7 days a week for anyone who needs to talk about life’s problems. We support those bereaved by suicide, through the [Support After Suicide Partnership (SASP)](http://supportaftersuicide.org.uk/).
@@ -63,7 +88,8 @@ A safety plan is designed to guide you through a crisis. As you continue through
 
 [Benchmarking the “Question, Persuade, Refer” program against evaluations of established suicide prevention gatekeeper trainings](https://onlinelibrary.wiley.com/doi/abs/10.1111/sltb.12430?casa_token=BKFj4tZuYjAAAAAA:FSKZdInkT6gbZeL5lGFrq0IknrCXY2EQbMedThzAbayCwClaUNeQ9x2uNzQbZbweeOu_YOzYzdydLg)
 
-# Recommended Educational Resources from [Suicide Prevention Resource Center](http://www.sprc.org/settings/aian)
+# Recommended Educational Resources 
+curanted and created by [Suicide Prevention Resource Center](http://www.sprc.org/settings/aian)
 
 [Transforming Tribal Communities: Indigenous Perspectives on Suicide Prevention](http://www.sprc.org/resources-programs/transforming-tribal-communities-indigenous-perspectives-suicide-prevention)
 These brief webinar clips feature expert advice on addressing the root causes of suicide and mental health issues in tribal communities.
@@ -86,6 +112,20 @@ The resources below offer many additional sources of information on programs, in
 
 We opened a new workspace in the Waterhack Circle on Qiqochat. [In the Big Lake, there is a CALM room](https://waterhack.qiqochat.com/garden/1). This is an experimental workplace environment for doing all the things we know need to be done at work, and for talking about the data and facts about all the things that get in the way of working. While we focus on individual tasks, we are exploring how to accomplish our work with questions such as: What can I do when I can focus on work, while at work? What can I complete when undisrupted by common workplace stressors? What can I do next to maintain a healthy nervous system for generating new ideas? Ask [Canary Opera about access to the private CALM Github repository](https://github.com/canaryopera) and more resources.
 
-## Suicide myth-busting.
+## Suicide Stigma and Suicide
+If you had a broken leg, you would go to a hospital immediately. There would be no hesitation, and no consideration about what others would "think." 
+But what if a stigma was attached to having a broken leg? Then what? What if you could lose your job because of it? What if people would treat you differently because of it? ... Immediate treatment, without stigma, should be our ultimate objective. Because when more people receive treatment for mental illness, there will be fewer suicides.  The causes of suicide are just like any other illness. It can be diagnosed and treated. And the person can get better.   [Read more at Suicide.org by Kevin Caruso](http://www.suicide.org/stigma-and-suicide.html) 
 
-## Research-based reasons for living
+Examples of suicide stigmas (all of these are harmful): [Read more about Breaking the Stigma about Suicide](https://www.seattleu.edu/wellness/mental/stigma/) 
+-Asking someone about suicide may plant the idea in their minds
+-Suicidal people are fully intent on dying
+-Everyone who dies by suicide is depressed
+-A sudden improvement in emotional state after a suicide attempt or a depressive period indicates the suicide risk is over.
+
+
+## COVID-19 and Mental Health Research
+[What Are the Mental Health Effects of COVID-19?](https://www.psychologytoday.com/us/blog/evidence-based-living/202008/what-are-the-mental-health-effects-covid-19)
+
+[The DEPRESSD Project](https://www.depressd.ca/covid-19-mental-health)
+A Unique and Rigorous Data Platform for Depression Screening Research. Living systematic reviews are systematic reviews that are continually updated and provide ongoing access to results via online publication.
+A systematic review compiles the evidence on COVID-19 and mental well-being.
