@@ -8,11 +8,13 @@ Anyone can hit crisis point. [CALM](https://www.thecalmzone.net/about-calm/what-
 ## LGBTQ community lifeline
 If you are a member of the LGBTQ community and need to talk to a trained counselor, use the Trevor Project's TrevorLifeLines 24/7" 1-866-488-7386.
 
-## Hackweek community workplace 
-We opened a new workspace in the Waterhack Circle on Qiqochat. [In the Big Lake, there is a CALM room](https://waterhack.qiqochat.com/garden/1). This is an experimental workplace environment for doing all the things we know need to be done at work, and for talking about the data and facts about all the things that get in the way of working. While we focus on individual tasks, we are exploring how to accomplish our work with questions such as: What can I do when I can focus on work, while at work? What can I complete when undisrupted by common workplace stressors? What can I do next to maintain a healthy nervous system for generating new ideas? Ask [Canary Opera about access to the private CALM Github repository](https://github.com/canaryopera) and more resources.
+
 
 ## United States 
 If you or someone you know is in crisis, you can also use the [National Suicide Prevention Lifelife](https://suicidepreventionlifeline.org/help-someone-else/). Never keep it a secret if a friend tells you about a plan to hurt themselves. Call 1-800-273-TALK (8255) so that you can find out what resources are available in your area, or encourage your loved one to call. Calls are routed to the Lifeline center closest to your area code that can provide you with local resources.
+
+## Online community workplace 
+We opened a new workspace in the Waterhack Circle on Qiqochat. [In the Big Lake, there is a CALM room](https://waterhack.qiqochat.com/garden/1). This is an experimental workplace environment for doing all the things we know need to be done at work, and for talking about the data and facts about all the things that get in the way of working. While we focus on individual tasks, we are exploring how to accomplish our work with questions such as: What can I do when I can focus on work, while at work? What can I complete when undisrupted by common workplace stressors? What can I do next to maintain a healthy nervous system for generating new ideas? Ask [Canary Opera about access to the private CALM Github repository](https://github.com/canaryopera) and more resources.
 
 ## University of Washington
 [This is a link to SafeCampus resources for suicide concerns](https://www.washington.edu/safecampus/suicide-concerns/)
@@ -39,3 +41,36 @@ Be wary if you, your loved one, friend, or colleague:
 - Appears to feel hopeless or talks about feeling trapped or having no reason to live
 - Appears to be in unbearable psychological pain or talks about being a burden to friends or family
 - Withdraws or isolates from others
+
+# Diverse Academic Publications
+
+[Association between perceived public stigma and suicidal behaviors among college students of color in the US](https://www.sciencedirect.com/science/article/pii/S0165032719320968?casa_token=GhV-7JkcrRgAAAAA:qH-4txeS_ztIuE9oaqsDqOo3Q-16u93evwZd9i1JWiZyCChVjxugJ8AxMuZ5kjoAaJomTKS5)
+
+[Suicidal behaviors among American Indian/Alaska Native firefighters: Evidence for the role of painful and provocative events](https://journals.sagepub.com/doi/abs/10.1177/1363461519847812)
+
+[Ethnic identity and suicide risk among Hispanic/Latinx young adults: the impact of perceived burdensomeness and thwarted belongingness](https://www.tandfonline.com/doi/abs/10.1080/13811118.2019.1670766)
+
+[“Let our apache heritage and culture live on forever and teach the young ones”: Development of the elders' resilience curriculum, an upstream suicide prevention](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajcp.12351?casa_token=_Zuajz0dpsoAAAAA:nUODVrvVT8qnW2iTPFPrqami1nr_aR6qd92PU95emEqDieODhflRR8Xr1Jm2MnljfNsoCZOUYTcfow)
+
+[Benchmarking the “Question, Persuade, Refer” program against evaluations of established suicide prevention gatekeeper trainings](https://onlinelibrary.wiley.com/doi/abs/10.1111/sltb.12430?casa_token=BKFj4tZuYjAAAAAA:FSKZdInkT6gbZeL5lGFrq0IknrCXY2EQbMedThzAbayCwClaUNeQ9x2uNzQbZbweeOu_YOzYzdydLg)
+
+# Recommended Educational Resources from [Suicide Prevention Resource Center](http://www.sprc.org/settings/aian)
+[Transforming Tribal Communities: Indigenous Perspectives on Suicide Prevention](http://www.sprc.org/resources-programs/transforming-tribal-communities-indigenous-perspectives-suicide-prevention)
+These brief webinar clips feature expert advice on addressing the root causes of suicide and mental health issues in tribal communities.
+
+[To Live to See the Great Day That Dawns: Preventing Suicide by American Indian and Alaska Native Youth and Young Adults](http://www.sprc.org/resources-programs/live-see-great-day-dawns-preventing-suicide-american-indian-and-alaska-native)
+This guide is designed to help AI/AN communities and those who serve them develop effective, culturally appropriate suicide prevention plans.
+
+[Walking Softly to Heal: The Importance of Community Readiness](http://www.sprc.org/resources-programs/walking-softly-heal-importance-community-readiness). These resources provide information on how to assess, understand and measure how ready a community is to address issues like suicide, and how to use)
+
+# Build an “upstream” prevention program 
+The resources below offer many additional sources of information on programs, including programs targeting specific groups and “upstream” prevention programs curated by [Suicide Prevention Resource Center](http://www.sprc.org/settings/aian).  Be sure to follow the guidance below on how to use program registries and lists. Just because a program appears on an evidence-based registry or other list doesn’t make it a good suicide prevention program for a particular population or setting. Visit the experts at [Suicide Prevention Resource Center](http://www.sprc.org/settings/aian) for tips on selecting and building programs.
+
+- SPRC: List of [Promising Prevention Practices](http://www.sprc.org/aian/promising-prevention-practices) that are culturally appropriate for American Indian/Alaska Native settings
+
+National Institutes of Health, Office of Disease Prevention: Links to [Lists of Evidence-Based Interventions and Strategies](https://prevention.nih.gov/resources-for-researchers/dissemination-and-implementation-resources/evidence-based-programs-practices)
+
+Youth.gov: Links to federally sponsored [Evidence-Based Program Directories](https://youth.gov/evidence-innovation/evidence-based-program-directories), listed by government department and agency.
+
+
+
