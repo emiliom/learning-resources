@@ -9,12 +9,15 @@ If someone you know is struggling emotionally or having a hard time, you can be 
 Anyone can hit crisis point. [CALM](https://www.thecalmzone.net/about-calm/what-is-calm/) runs a [free and confidential helpline and webchat](https://www.thecalmzone.net/help/get-help/) – 7 hours a day, 7 days a week for anyone who needs to talk about life’s problems. We support those bereaved by suicide, through the [Support After Suicide Partnership (SASP)](http://supportaftersuicide.org.uk/).
 
 ## LGBTQ community lifeline
-If you are a member of the LGBTQ community and need to talk to a trained counselor, use the Trevor Project's TrevorLifeLines 24/7" 1-866-488-7386.
+If you are a member of the LGBTQ community and need to talk to a trained counselor, use the [Trevor Project](https://www.thetrevorproject.org/) TrevorLifeLines 24/7 1-866-488-7386. The Trevor Project is an American non-profit organization focused on suicide prevention efforts among lesbian, gay, bisexual, transgender, queer, and questioning (LGBTQ) community members.
 
 ## Native and Indigenous support  
 Depression and suicide affect people of all ages and populations, but Native American and Alaskan Native populations can be at a higher risk. If you’re struggling, the [Lifeline is available to help, 24/7.](https://suicidepreventionlifeline.org/help-yourself/native-americans/)
 
 StrongHearts Native Helpline 1-844-7NATIVE (762-8483) is a safe domestic, dating and sexual violence helpline for American Indians and Alaska Natives, offering culturally-appropriate support and advocacy daily from 7 a.m. to 10 p.m. CT. Anonymous and confidential. Callers reaching out after hours may connect with The National Domestic Violence Hotline, a non-Native based 24-7 domestic violence helpline by selecting option one. Learn more about [services here.](https://www.strongheartshelpline.org/).  Safety Alert: Computer use can be monitored and is impossible to completely clear. If you are afraid your internet usage might be monitored, call 1−844-762-8483.
+
+## Ayuda En Español
+Cuando usted llama al número 1-888-628-9454, su llamada se dirige al centro de ayuda de nuestra red disponible más cercano.Tenemos actualmente 170 centros en la red y usted hablará probablemente con uno situado en su zona. El folleto es tamaño de bolsillo y se divide en cuatro paneles. Este folleto proporciona información de como reconocer las señales para ofrecer ayuda, y contiene el enlace al sitio web para mas recursos. [Suicide Prevention Brochure (Spanish) / Folleto para la prevención del suicidio.](https://emmresourcecenter.org/resources/suicide-prevention-brochure-spanish-folleto-para-la-prevencion-del-suicidio).
 
 ## United States 
 [Talk to Someone Now](https://suicidepreventionlifeline.org/talk-to-someone-now/) The Lifeline is available for everyone, is free, and confidential.  [Lifelife Chat](https://suicidepreventionlifeline.org/chat/) centers in the Lifeline network are accredited by CONTACT USA. [Lifeline Chat is available 24/7 across the U.S.]((https://suicidepreventionlifeline.org/chat/)
@@ -23,15 +26,7 @@ If you or someone you know is in crisis, you can also use the [National Suicide 
 
 ## University of Washington
 [This is a link to SafeCampus resources for suicide concerns](https://www.washington.edu/safecampus/suicide-concerns/)
-If you are not sure what to do, call SafeCampus at 206-685-7233 or your local campus counseling center to determine their crisis drop-in availability during business hours, Monday–Friday. If you feel that you or someone else need immediate counseling support, the UW campus-based counseling centers offer drop-in support for students during their business hours.
-
-Counseling center: 206-543-1240
-
-Hall Health Mental Health: 206-543-5030
-
-Tacoma Student Counseling Center: 1-253-692-4522
-
-Bothell Counseling Center: 425-352-3183
+If you are not sure what to do, call SafeCampus at 206-685-7233 or your local campus counseling center to determine their crisis drop-in availability during business hours, Monday–Friday. If you feel that you or someone else need immediate counseling support, the UW campus-based counseling centers offer drop-in support for students during their business hours.  Counseling center: 206-543-1240;  Hall Health Mental Health: 206-543-5030; Tacoma Student Counseling Center: 1-253-692-4522; Bothell Counseling Center: 425-352-3183
 
 # Warning Signs
 Not everyone will give their friends and loved ones verbal hints about their suicidal thoughts. That's why it's important to recognize warning signs in actions as well as words.
@@ -83,9 +78,9 @@ The resources below offer many additional sources of information on programs, in
 
 - SPRC: List of [Promising Prevention Practices](http://www.sprc.org/aian/promising-prevention-practices) that are culturally appropriate for American Indian/Alaska Native settings
 
-National Institutes of Health, Office of Disease Prevention: Links to [Lists of Evidence-Based Interventions and Strategies](https://prevention.nih.gov/resources-for-researchers/dissemination-and-implementation-resources/evidence-based-programs-practices)
+- National Institutes of Health, Office of Disease Prevention: Links to [Lists of Evidence-Based Interventions and Strategies](https://prevention.nih.gov/resources-for-researchers/dissemination-and-implementation-resources/evidence-based-programs-practices)
 
-Youth.gov: Links to federally sponsored [Evidence-Based Program Directories](https://youth.gov/evidence-innovation/evidence-based-program-directories), listed by government department and agency.
+- Youth.gov: Links to federally sponsored [Evidence-Based Program Directories](https://youth.gov/evidence-innovation/evidence-based-program-directories), listed by government department and agency.
 
 ## Online community workplace 
 
