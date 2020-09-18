@@ -5,7 +5,8 @@ If you decide to call 911 or Emergency Medical Services, tell them exactly where
 # Avoid an Emergency
 It is okay to not be okay. You can be a successful person with a loving family and supportive friends, but still be impacted by events and conditions that lead to a mental health condition requiring help. [Breaking the Stigma Around Suicide](https://kvoa.com/news/local-news/2020/09/15/breaking-the-stigma-around-suicide-tucson-woman-shares-her-touching-story/)
 
-## Suicide is a big issue. More people lose their lives to suicide than to road accidents, industrial accidents, and homicides combined. 
+## Suicide is a big issue. 
+More people lose their lives to suicide than to road accidents, industrial accidents, and homicides combined. 
 
 If someone you know is struggling emotionally or having a hard time, you can be the difference in getting them the help they need. It’s important to take care of yourself when you are supporting someone through a difficult time, as this may stir up difficult emotions. If it does, please reach out for support yourself.  The cumulative impacts in our daily efforts to reduce stigma, challenge stereotypes, and spread awareness of suicide and its devastating impact can make a difference in people's lives. [Talk to Someone Now](https://suicidepreventionlifeline.org/talk-to-someone-now/).
 
