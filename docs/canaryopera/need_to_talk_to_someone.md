@@ -12,25 +12,20 @@ If someone you know is struggling emotionally or having a hard time, you can be 
 ## Protect yourself from myths
 As well as being incorrect, common myths can stop us recognising when someone is at risk and in need of support. So here are five common misconceptions and the facts you can use to bust these myths (credit to [Sane Australia](https://www.sane.org/information-stories/the-sane-blog/suicide-prevention/busting-the-myths-about-suicide)).
 
-Myth # 1: Talking about suicide might put the idea in their head
-
+Myth # 1: Talking about suicide might put the idea in their head    
 _Fact:_ There’s no harm in asking. If anything, for someone who is thinking about suicide, **talking about it can come as a great a relief, and help them feel less afraid and more in control. Avoiding or tiptoeing around the issue can be isolating and leave people feeling unheard.** The best policy is to try and help someone talk openly about how they are feeling and encourage them to seek help.
 
-Myth #2: People who attempt or end their life by suicide want to die
-
+Myth #2: People who attempt or end their life by suicide want to die    
 _Fact:_ People who attempt suicide are often quite ambivalent about it. They may not really want to die – they may even be afraid of death – but see suicide as the only way to bring an end to their pain. **Providing emotional support, helping them consider positive coping methods, can be helpful to someone who is feeling unsafe.**
 
-Myth #3: Suicidal behaviour is manipulative or ‘attention-seeking’
+Myth #3: Suicidal behaviour is manipulative or ‘attention-seeking’   
+_Fact:_ Sometimes people may threaten or attempt suicide as a desperate plea to let others know they are not coping and need help.
+**They may not know how to tell others how they are feeling, they may think that no one cares, or that nobody can help them.** However these actions may come across, they should never be treated as trivial or manipulative. All suicidal talk and behaviour is serious and requires a compassionate and immediate response.
 
-Sometimes people may threaten or attempt suicide as a desperate plea to let others know they are not coping and need help.
-_Fact:_ **They may not know how to tell others how they are feeling, they may think that no one cares, or that nobody can help them.** However these actions may come across, they should never be treated as trivial or manipulative. All suicidal talk and behaviour is serious and requires a compassionate and immediate response.
-
-Myth #4: Most suicides happen unexpectedly
-
+Myth #4: Most suicides happen unexpectedly    
 _Fact:_ **There are often warning signs prior to suicide.** Some may be obvious, talking about suicide or death. Others less so, such as withdrawing from friends or family, or misusing alcohol and drugs. People who are thinking about dying usually try to seek help. In fact, many people who attempt suicide visit a doctor in the months and weeks prior.
 
-Myth #5: Suicide is a selfish act
-
+Myth #5: Suicide is a selfish act     
 _Fact:_ Many people who attempt suicide feel they are a burden to others, and that their friends and family would be better off without them. While some people recognise that their death will cause their loved one’s pain, **they may also believe they are causing more pain by being alive** and rationalise suicide as a way to protect those they care about. 
 
 If you are thinking about suicide, please reach out to one of the crisis services listed below. If you are worried about someone you can help by learning what signs to look out for, how to have a conversation about suicide and how to help them stay safe if they are feeling suicidal.
